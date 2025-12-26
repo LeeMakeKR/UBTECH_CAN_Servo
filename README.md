@@ -8,13 +8,13 @@ ubtech 서보는 타오바오, 알리익스프레스 등에서 중고 제품이 
 
 
 ## ubtech 서보 모델
-- 대형 로봇용 서보 : 60kg 서보
+- 대형 로봇용 서보 : 60kg CAN 서보
 - 중형 로봇용 서보 : 25kg 서보
 - 소형 로봇용 서보 
 
 ## 1. 대형 서보
 
-<img src="pics/2164533761.jpg" alt="UBTECH 서보모터" width="500px">
+<img src="pics/2164533761.jpg" alt="UBTECH 서보모터" width="400px">
 
 ### 하드웨어 스펙
 
